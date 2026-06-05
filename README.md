@@ -5,7 +5,7 @@ A collection of data analysis projects built to uncover insights through structu
 Tool: Microsoft Excel
 
 Period: Q1 2025 (January – March)
-## Description
+### Description
 This project analyzes budget vs actual spending across 5 departments — Finance, HR, IT, Marketing, and Sales — for the first quarter of 2025. It tracks where money was planned to go and where it actually went, using pivot tables, variance calculations, and a summary dashboard.
 - Dashboard Image- <a href="https://github.com/abhishek-yadav21/Analysis-Dashboard-/blob/main/Monthly%20department%20budget%20dashboard%20screenshot.png">view Dashboard image</a>
   
@@ -26,9 +26,9 @@ This project analyzes budget vs actual spending across 5 departments — Finance
 ## 2. Retail Sales Dashboard
 Tool: Power BI
 Type: Interactive Dashboard
-## Description
+### Description
 This Power BI dashboard gives a complete view of retail sales performance. It tracks total sales and profit, and breaks them down by product category, customer segment, and region — making it easy to spot what's selling, who's buying, and where growth is coming from.
-## Key Insights
+### Key Insights
 
 - Electronics, Furniture, and Office Supplies are the three core product categories tracked for revenue contribution
 
