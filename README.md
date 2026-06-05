@@ -12,7 +12,7 @@ This project analyzes budget vs actual spending across 5 departments — Finance
 <img width="1886" height="797" alt="monthly departmental dashboard image" src="https://github.com/user-attachments/assets/804adb8c-cf25-43f7-b0f8-fcdf6cd8a5cb" />
 
 
--<a href="https://github.com/abhishek-yadav21/Analysis-Dashboard-/blob/main/Monthly%20department%20budget%20analysis%20.xlsx">Dataset</a>
+Dashboard Interaction-<a href="https://github.com/abhishek-yadav21/Analysis-Dashboard-/blob/main/Monthly%20department%20budget%20analysis%20.xlsx">Dashboard</a>
 
 
 ### Key Insights
