@@ -1,6 +1,6 @@
 # Analysis-Dashboard-
 A collection of data analysis projects built to uncover insights through structured reporting and interactive dashboards.
-## Projects Overview
+
 # Monthly Department Budget Analysis
 Tool: Microsoft Excel
 Period: Q1 2025 (January – March)
