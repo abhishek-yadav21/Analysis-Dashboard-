@@ -30,6 +30,8 @@ Tool: Power BI
 Type: Interactive Dashboard
 ### Description
 This Power BI dashboard gives a complete view of retail sales performance. It tracks total sales and profit, and breaks them down by product category, customer segment, and region — making it easy to spot what's selling, who's buying, and where growth is coming from.
+<img width="1743" height="862" alt="Retail sales dasboard screenshot" src="https://github.com/user-attachments/assets/3a15bc21-2d69-4859-988b-07e7e0144939" />
+
 ### Key Insights
 
 - Electronics, Furniture, and Office Supplies are the three core product categories tracked for revenue contribution
