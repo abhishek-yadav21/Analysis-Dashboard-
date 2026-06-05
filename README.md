@@ -7,8 +7,8 @@ Tool: Microsoft Excel
 Period: Q1 2025 (January – March)
 ### Description
 This project analyzes budget vs actual spending across 5 departments — Finance, HR, IT, Marketing, and Sales — for the first quarter of 2025. It tracks where money was planned to go and where it actually went, using pivot tables, variance calculations, and a summary dashboard.
-- Dashboard Image- <a href="https://github.com/abhishek-yadav21/Analysis-Dashboard-/blob/main/Monthly%20department%20budget%20dashboard%20screenshot.png">view Dashboard image</a>
-<img width="1853" height="785" alt="Monthly department budget dashboard screenshot" src="https://github.com/user-attachments/assets/ee16a680-29bc-4dcd-baff-602dc843fcad" />
+<img width="1886" height="797" alt="monthly departmental dashboard image" src="https://github.com/user-attachments/assets/f0106333-75de-4412-b398-3ab53d2c9270" />
+
 
   
 ### Key Insights
