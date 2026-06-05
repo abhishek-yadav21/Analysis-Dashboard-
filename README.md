@@ -7,10 +7,11 @@ Tool: Microsoft Excel
 Period: Q1 2025 (January – March)
 ### Description
 This project analyzes budget vs actual spending across 5 departments — Finance, HR, IT, Marketing, and Sales — for the first quarter of 2025. It tracks where money was planned to go and where it actually went, using pivot tables, variance calculations, and a summary dashboard.
+
+
 <img width="1886" height="797" alt="monthly departmental dashboard image" src="https://github.com/user-attachments/assets/f0106333-75de-4412-b398-3ab53d2c9270" />
 
 
-  
 ### Key Insights
 
 - Total budget was exceeded by ₹68,000 - actual spend came in at ₹11,54,000 against a planned ₹10,86,000
@@ -30,7 +31,9 @@ Tool: Power BI
 Type: Interactive Dashboard
 ### Description
 This Power BI dashboard gives a complete view of retail sales performance. It tracks total sales and profit, and breaks them down by product category, customer segment, and region — making it easy to spot what's selling, who's buying, and where growth is coming from.
-<img width="1743" height="862" alt="Retail sales dasboard screenshot" src="https://github.com/user-attachments/assets/3a15bc21-2d69-4859-988b-07e7e0144939" />
+
+
+<img width="1886" height="862" alt="Retail sales dasboard screenshot" src="https://github.com/user-attachments/assets/3a15bc21-2d69-4859-988b-07e7e0144939" />
 
 ### Key Insights
 
