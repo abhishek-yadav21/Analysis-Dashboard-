@@ -4,9 +4,9 @@ A collection of data analysis projects built to uncover insights through structu
 ## 1. Monthly Department Budget Analysis
 Tool: Microsoft Excel
 
-Period: Q1 2025 (January – March)
+Period: Q1 2025 (January - March)
 ### Description
-This project analyzes budget vs actual spending across 5 departments — Finance, HR, IT, Marketing, and Sales — for the first quarter of 2025. It tracks where money was planned to go and where it actually went, using pivot tables, variance calculations, and a summary dashboard.
+This project analyzes budget vs actual spending across 5 departments - Finance, HR, IT, Marketing, and Sales - for the first quarter of 2025. It tracks where money was planned to go and where it actually went, using pivot tables, variance calculations, and a summary dashboard.
 
 
 <img width="1886" height="797" alt="monthly departmental dashboard image" src="https://github.com/user-attachments/assets/804adb8c-cf25-43f7-b0f8-fcdf6cd8a5cb" />
@@ -30,10 +30,9 @@ Dashboard Interaction-<a href="https://github.com/abhishek-yadav21/Analysis-Dash
 - March revenue beat its target - actual revenue of ₹1,90,000 exceeded the budget of ₹1,70,000 by ₹20,000
 
 ## 2. Retail Sales Dashboard
-Tool: Power BI
-Type: Interactive Dashboard
+Tool: Power BI Interactive Dashboard
 ### Description
-This Power BI dashboard gives a complete view of retail sales performance. It tracks total sales and profit, and breaks them down by product category, customer segment, and region — making it easy to spot what's selling, who's buying, and where growth is coming from.
+This Power BI dashboard gives a complete view of retail sales performance. It tracks total sales and profit, and breaks them down by product category, customer segment, and region - making it easy to spot what's selling, who's buying, and where growth is coming from.
 
 
 <img width="1886" height="862" alt="Retail sales dasboard screenshot" src="https://github.com/user-attachments/assets/3a15bc21-2d69-4859-988b-07e7e0144939" />
