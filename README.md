@@ -9,8 +9,8 @@ Period: Q1 2025 (January – March)
 This project analyzes budget vs actual spending across 5 departments — Finance, HR, IT, Marketing, and Sales — for the first quarter of 2025. It tracks where money was planned to go and where it actually went, using pivot tables, variance calculations, and a summary dashboard.
 
 
-<img width="1886" height="797" alt="monthly departmental dashboard image" src="https://github.com/user-attachments/assets/f0106333-75de-4412-b398-3ab53d2c9270" />
-<-a href="https://github.com/abhishek-yadav21/Analysis-Dashboard-/blob/main/Monthly%20department%20budget%20analysis%20.xlsx">
+<img width="1886" height="797" alt="monthly departmental dashboard image" src="https://github.com/user-attachments/assets/f0106333-75de-4412-b398-3ab53d2c9270" />Dataset</a>
+-<a href="https://github.com/abhishek-yadav21/Analysis-Dashboard-/blob/main/Monthly%20department%20budget%20analysis%20.xlsx">
 
 
 ### Key Insights
