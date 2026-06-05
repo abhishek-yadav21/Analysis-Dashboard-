@@ -43,7 +43,7 @@ This Power BI dashboard gives a complete view of retail sales performance. It tr
 
 - Sales by Region covers East, West, North, and South - helping identify high and low performing areas
 
-- Three customer segments — Consumer, Corporate, and Home Office - allow comparison of buying behavior across different buyer types
+- Three customer segments - Consumer, Corporate, and Home Office - allow comparison of buying behavior across different buyer types
 
 - Quantity sold by customer is tracked to understand volume trends alongside revenue
 
