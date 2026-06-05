@@ -6,6 +6,8 @@ Tool: Microsoft Excel
 Period: Q1 2025 (January – March)
 # Description
 This project analyzes budget vs actual spending across 5 departments — Finance, HR, IT, Marketing, and Sales — for the first quarter of 2025. It tracks where money was planned to go and where it actually went, using pivot tables, variance calculations, and a summary dashboard.
+- Dashboard Image- <a href="https://github.com/abhishek-yadav21/Analysis-Dashboard-/blob/main/Monthly%20department%20budget%20dashboard%20screenshot.png">view Dashboard</a>
+  
 # Key Insights
 
 -Total budget was exceeded by ₹68,000 — actual spend came in at ₹11,54,000 against a planned ₹10,86,000
