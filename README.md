@@ -1,4 +1,4 @@
-# Analysis-Project
+## Analysis-Project
 A collection of data analysis projects built to uncover insights through structured reporting and interactive dashboards.
 
 # 1. Monthly Department Budget Analysis
